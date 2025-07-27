@@ -5,11 +5,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=onedark" alt="GitHub Trophies" />
 </p>
 
-- 🔭 Currently building and deploying full-stack MERN/MEAN applications
-- 🌱 Continuously sharpening skills in **React**, **Angular**, **Node.js**, **WebGL / Three.js**, performance optimization, and real-time web apps
+- 🔭 Currently building and deploying full-stack MERN applications
+- 🌱 Continuously sharpening skills in **MongoDb**,**Express**,**React**, **Node.js**, **python**, **Django** performance optimization, and real-time web apps
 - 👨‍💻 Explore my live projects and repositories: [GitHub Repos](https://github.com/amresh1kumar?tab=repositories)
-- 📫 Reach me: *(insert your email here)*
-- ⚡ Fun fact: I often recreate tools from scratch—like a React clone or SVG editor!
+- 📫 Reach me: *(amreshbkp0111@gmail.com)*
 
 ---
 
@@ -17,10 +16,9 @@
 
 | Project                         | Description                                                                                      | Live Link / Stack                              |
 |--------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------|
-| **SVG Editor**                 | Web-based SVG illustration tool with real-time editing—useful for presentations, UI or icon design | React · TypeScript · Redux · Serverless         |
 | **Programming Language (WebAssembly)** | Custom-interpreted language engine compiled to WebAssembly using Emscripten  | C++ · WebAssembly · Compiler internals          |
 | **MERN Real-time Chat App**    | Fully functional chat platform with real-time messaging via Socket.io                          | React · Node.js · MongoDB · Socket.io           |
-| **Clothing E‑commerce App**    | Shopping platform with Firebase backend and Redux state management                             | React · Redux · Firebase                        |
+| **Clothing E‑commerce App**    | Shopping platform with Firebase backend and Redux state management                             | React · Redux                        |
 
 These are actively live and reflecting real-world usage and deployment. I’ve pushed them to production and continue maintaining them daily. :contentReference[oaicite:1]{index=1}
 
@@ -28,19 +26,17 @@ These are actively live and reflecting real-world usage and deployment. I’ve p
 
 ## 🧰 Tech Stack
 
-**Frontend:** JavaScript · TypeScript · React · Angular · Redux · RxJS · WebGL / Three.js  
-**Backend & Tools:** Node.js · Express · GraphQL · Apollo · Socket.io · MongoDB · MySQL · Firebase · Docker · AWS · Serverless deployments  
-**Animations & UI:** GSAP · Styled Components · Chart.js · SVG tooling · JWT · Webpack · Electron.js
+**Frontend:** JavaScript · React · HTML · CSS · antd · Tailwind CSS · Contex API
+**Backend & Tools:** Node.js · Express · GraphQL · App Write  · Python  · MongoDB · MySQL  · Django · java  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kumar-amresh-1017a7161" target="_blank">LinkedIn</a> ·  
-  <a href="https://stackoverflow.com/users/9280058/amresh-kumar" target="_blank">StackOverflow</a> ·  
-  <a href="https://medium.com/@kamresh485" target="_blank">Medium</a> ·  
+  <a href="https://www.linkedin.com/in/amresh1kumar/" target="_blank">LinkedIn</a> ·  
   <a href="https://github.com/amresh1kumar" target="_blank">GitHub</a>
+  <a href="https://x.com/amresh1kumar" target="_blank">X</a>
 </p>
 
 ---
@@ -56,21 +52,3 @@ These are actively live and reflecting real-world usage and deployment. I’ve p
 
 > *"Small code, big impact."*
 
----
-
-## ✅ What I Can Do Next for You
-
-- 🎯 Set up a `metrics.yml` GitHub Actions workflow to automate metrics displays  
-- 📄 Generate your `README.md` file ready-to-publish  
-- 🌙 Add dark/light theme toggles or animated badges and sections for visual flair
-
-Just give me a thumbs-up, and I’ll crank it out! 😎
-
----
-
-### Notes from your live project highlights:
-- Your **SVG Editor**, **Programming Language**, **Chat App**, and **Clothing App** are live and actively maintained :contentReference[oaicite:2]{index=2}
-- All “AmKreta” mentions have been removed per your request
-
-Let me know if you want any changes or additions!
-::contentReference[oaicite:3]{index=3}
