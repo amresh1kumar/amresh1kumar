@@ -10,20 +10,6 @@
 - 👨‍💻 Explore my live projects and repositories: [GitHub Repos](https://github.com/amresh1kumar?tab=repositories)
 - 📫 Reach me: *(amreshbkp0111@gmail.com)*
 
----
-
-## 🔥 Featured (Live) Projects
-
-| Project                         | Description                                                                                      | Live Link / Stack                              |
-|--------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------|
-| **Programming Language (WebAssembly)** | Custom-interpreted language engine compiled to WebAssembly using Emscripten  | C++ · WebAssembly · Compiler internals          |
-| **MERN Real-time Chat App**    | Fully functional chat platform with real-time messaging via Socket.io                          | React · Node.js · MongoDB · Socket.io           |
-| **Clothing E‑commerce App**    | Shopping platform with Firebase backend and Redux state management                             | React · Redux                        |
-
-These are actively live and reflecting real-world usage and deployment. I’ve pushed them to production and continue maintaining them daily. :contentReference[oaicite:1]{index=1}
-
----
-
 ## 🧰 Tech Stack
 
 **Frontend:** JavaScript · React · HTML · CSS · antd · Tailwind CSS · Contex API
