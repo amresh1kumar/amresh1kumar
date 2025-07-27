@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amresh Kumar</h1>
-<h3 align="center">Frontend Engineer | MERN/MEAN Stack | 3‑D Graphics & Real‑time Web Apps</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=onedark" alt="GitHub Trophies" />
