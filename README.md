@@ -1,20 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amresh Kumar</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
-
-<p align="center">
-  <a href="https://github.com/amresh1kumar">
-    <img src="https://komarev.com/ghpvc/?username=amresh1kumar&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements  
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer</h3>
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=onedark&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=onedark&row=1&column=6" 
+    alt="GitHub Trophies" 
   />
 </p>
 
@@ -22,25 +12,22 @@
 
 ## 🚀 About Me  
 
-- 🔭 Working on **real-world full-stack MERN applications**
-- 🌱 Improving expertise in **React, Node.js, MongoDB & Express**
-- 🐍 Backend experience with **Python & Django**
-- ⚡ Interested in **performance optimization** & **real-time apps**
-- 👨‍💻 Projects: [GitHub Repositories](https://github.com/amresh1kumar?tab=repositories)
-- 📫 Email: **amreshbkp0111@gmail.com**
+- 🔭 Currently building and deploying **full-stack MERN applications**
+- 🌱 Sharpening skills in **MongoDB, Express, React, Node.js**
+- 🐍 Working with **Python & Django** for backend development
+- ⚡ Exploring **performance optimization** and **real-time applications**
+- 👨‍💻 Explore my work: [GitHub Repositories](https://github.com/amresh1kumar?tab=repositories)
+- 📫 Reach me at: **amreshbkp0111@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack  
 
 ### 🎨 Frontend  
-`HTML` · `CSS` · `JavaScript` · `React` · `Ant Design` · `Tailwind CSS`
+`JavaScript` · `React` · `HTML` · `CSS` · `Ant Design` · `Tailwind CSS` · `Context API`
 
-### ⚙️ Backend & Databases  
-`Node.js` · `Express.js` · `Python` · `Django` · `MongoDB` · `MySQL`
-
-### 🛠️ Tools & Others  
-`Java` · `GraphQL` · `Appwrite` · `Git` · `GitHub` · `REST APIs`
+### ⚙️ Backend & Tools  
+`Node.js` · `Express` · `Python` · `Django` · `MongoDB` · `MySQL` · `GraphQL` · `Appwrite` · `Java`
 
 ---
 
@@ -49,6 +36,7 @@
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=amresh1kumar&theme=tokyonight" 
+    alt="GitHub Streak" 
   />
 </p>
 
@@ -56,16 +44,18 @@
   <img 
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
   />
   <img 
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
   />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amresh1kumar/" target="_blank">
@@ -81,15 +71,26 @@
 
 ---
 
-## 🧠 Why My Work  
+## 🧠 Why Follow My Work?  
 
-- Clean & **maintainable code**
+- Focus on **clean, minimal & maintainable code**
 - Strong **JavaScript fundamentals**
-- Focus on **scalable full-stack systems**
-- Learn by **building real projects**
+- Build **production-ready, scalable full-stack applications**
+- Learn by **building real-world projects**
 
 ---
 
 <p align="center">
-  <em>“Small code. Real systems. Long-term impact.”</em>
+  <em>“Small code. Big impact.”</em>
+</p>
+
+---
+
+## 🐍 Contribution Activity  
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/amresh1kumar/amresh1kumar/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake Animation"
+  />
 </p>
