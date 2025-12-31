@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amresh Kumar</h1>
-<h3 align="center">
-  Full Stack Web Developer • MERN Stack • React & Django
-</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
 <p align="center">
   <a href="https://github.com/amresh1kumar">
@@ -9,45 +7,60 @@
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=onedark&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=onedark&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🔭 Building & deploying **production-ready full-stack MERN applications**
-- 🌱 Improving skills in **MongoDB, Express, React, Node.js**
-- 🐍 Working with **Python & Django** for backend systems
-- ⚡ Interested in **performance optimization** & **real-time applications**
-- 👨‍💻 View my work: [GitHub Repositories](https://github.com/amresh1kumar?tab=repositories)
-- 📫 Contact: **amreshbkp0111@gmail.com**
+- 🔭 Working on **real-world full-stack MERN applications**
+- 🌱 Improving expertise in **React, Node.js, MongoDB & Express**
+- 🐍 Backend experience with **Python & Django**
+- ⚡ Interested in **performance optimization** & **real-time apps**
+- 👨‍💻 Projects: [GitHub Repositories](https://github.com/amresh1kumar?tab=repositories)
+- 📫 Email: **amreshbkp0111@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack  
 
 ### 🎨 Frontend  
-`JavaScript` · `React` · `HTML` · `CSS` · `Ant Design` · `Tailwind CSS` · `Context API`
+`HTML` · `CSS` · `JavaScript` · `React` · `Ant Design` · `Tailwind CSS`
 
 ### ⚙️ Backend & Databases  
 `Node.js` · `Express.js` · `Python` · `Django` · `MongoDB` · `MySQL`
 
-### 🧪 Tools & Others  
+### 🛠️ Tools & Others  
 `Java` · `GraphQL` · `Appwrite` · `Git` · `GitHub` · `REST APIs`
 
 ---
 
-## 📊 GitHub Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amresh1kumar&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amresh1kumar&theme=tokyonight" 
+  />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight" />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight" 
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight" 
+  />
 </p>
 
 ---
@@ -68,15 +81,15 @@
 
 ---
 
-## 🧠 Why My Work Stands Out  
+## 🧠 Why My Work  
 
-- Focus on **clean UI, scalable architecture & real-world use cases**
-- Strong **JavaScript fundamentals** (closures, async/await, event loop)
-- Experience building **real-time & full-stack applications**
-- Active learner with **hands-on project-based approach**
+- Clean & **maintainable code**
+- Strong **JavaScript fundamentals**
+- Focus on **scalable full-stack systems**
+- Learn by **building real projects**
 
 ---
 
 <p align="center">
-  <em>“Small code. Scalable systems. Real impact.”</em>
+  <em>“Small code. Real systems. Long-term impact.”</em>
 </p>
