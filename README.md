@@ -1,28 +1,32 @@
-<!-- ================= CUSTOM BANNER (AUTO DARK/LIGHT) ================= -->
+<!-- ================= CUSTOM BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&section=header&text=Amresh%20Kumar&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=260&section=header&text=Amresh%20Kumar&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack&descSize=18&descAlignY=65&animation=fadeIn" />
 </p>
 
-<!-- ================= PROFILE PHOTO (GITHUB NATIVE CIRCLE) ================= -->
+<!-- ================= PROFILE PICTURE ================= -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/amresh1kumar" width="140" alt="Amresh Kumar" />
+  <img src="https://avatars.githubusercontent.com/amresh1kumar" width="150" alt="Amresh Kumar" />
 </p>
 
 <!-- ================= ANIMATED TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Amresh+Kumar;Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+to+Work+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Amresh+Kumar;Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+to+Work+🚀" />
 </p>
 
 <!-- ================= OPEN TO WORK ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge" />
 </p>
 
 <h1 align="center">Amresh Kumar</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amresh1kumar&label=Profile%20Views&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=amresh1kumar&label=Profile%20Views&color=22C55E&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -62,19 +66,21 @@ I am a **Full Stack Web Developer** focused on building
 
 ## 📊 GitHub Stats  
 
-> GitHub statistics widgets can be unreliable at times.  
-> I prefer keeping my profile **clean and trustworthy**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight" />
+</p>
 
-- ⭐ Public repositories & activity are visible on my GitHub profile
-- 🔥 Contribution consistency shown in the **GitHub UI below**
-- 📁 Language usage visible inside repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity  
 
-👉 **Scroll down to view my GitHub contribution graph**  
-(Displayed directly by GitHub’s official UI below this README)
+<p align="center">
+  <img src="https://ghchart.rshah.org/amresh1kumar" alt="Amresh Kumar GitHub Contribution Chart" />
+</p>
 
 ---
 
