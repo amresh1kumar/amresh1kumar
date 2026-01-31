@@ -1,27 +1,28 @@
-<!-- ================= PROFILE PICTURE ================= -->
+<!-- ================= CUSTOM BANNER (AUTO DARK/LIGHT) ================= -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/amresh1kumar" width="160" alt="Amresh Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&section=header&text=Amresh%20Kumar&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack&descAlignY=65&animation=fadeIn" />
 </p>
 
-<!-- ================= ANIMATED TYPING INTRO ================= -->
+<!-- ================= PROFILE PHOTO (GITHUB NATIVE CIRCLE) ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Amresh+Kumar;Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+to+Work+🚀" />
+  <img src="https://avatars.githubusercontent.com/amresh1kumar" width="140" alt="Amresh Kumar" />
 </p>
 
-<!-- ================= OPEN TO WORK BANNER ================= -->
+<!-- ================= ANIMATED TYPING ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-brightgreen?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Amresh+Kumar;Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Open+to+Work+🚀" />
+</p>
+
+<!-- ================= OPEN TO WORK ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-success?style=for-the-badge" />
 </p>
 
 <h1 align="center">Amresh Kumar</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amresh1kumar&label=Profile%20Views&color=22C55E&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amresh1kumar&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=amresh1kumar&label=Profile%20Views&color=blue" />
 </p>
 
 ---
@@ -35,39 +36,7 @@ I am a **Full Stack Web Developer** focused on building
 - 🌱 Improving skills in **React, Node.js, MongoDB**
 - 🐍 Backend experience with **Python & Django**
 - ⚡ Interested in **performance optimization & system design**
-- 📂 Projects: [GitHub Repositories](https://github.com/amresh1kumar?tab=repositories)
 - 📫 Email: **amreshbkp0111@gmail.com**
-
----
-
-## ⭐ Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/amresh1kumar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amresh1kumar&repo=YOUR_PROJECT_1&theme=algolia" />
-  </a>
-  <a href="https://github.com/amresh1kumar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amresh1kumar&repo=YOUR_PROJECT_2&theme=algolia" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/amresh1kumar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amresh1kumar&repo=YOUR_PROJECT_3&theme=algolia" />
-  </a>
-</p>
-
-> 🔧 Replace `YOUR_PROJECT_1 / 2 / 3` with **real repo names only**
-
----
-
-## 📄 Resume  
-
-<p align="center">
-  <a href="https://drive.google.com/your_resume_link_here" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=google-drive" />
-  </a>
-</p>
 
 ---
 
@@ -93,26 +62,19 @@ I am a **Full Stack Web Developer** focused on building
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amresh1kumar&theme=algolia" />
-</p>
+> GitHub statistics widgets can be unreliable at times.  
+> I prefer keeping my profile **clean and trustworthy**.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=algolia" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=algolia" />
-</p>
+- ⭐ Public repositories & activity are visible on my GitHub profile
+- 🔥 Contribution consistency shown in the **GitHub UI below**
+- 📁 Language usage visible inside repositories
 
 ---
 
 ## 📈 Contribution Activity  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amresh1kumar&theme=github-compact&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amresh1kumar/amresh1kumar/output/github-contribution-grid-snake.svg" />
-</p>
+👉 **Scroll down to view my GitHub contribution graph**  
+(Displayed directly by GitHub’s official UI below this README)
 
 ---
 
