@@ -79,7 +79,7 @@ I am a **Full Stack Web Developer** focused on building
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/amresh1kumar" alt="Amresh Kumar GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amresh1kumar&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
