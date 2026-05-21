@@ -71,8 +71,6 @@ I am a **Full Stack Web Developer** focused on building
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -80,10 +78,34 @@ I am a **Full Stack Web Developer** focused on building
 </p>
 
 
-## 🔥 GitHub Streak
+## ✨ Animated Developer Section
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amresh1kumar&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+## 🌌 Coding Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+## ⚡ Tech Animation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,django,tailwind,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 🎯 Fun Animation
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amresh1kumar&theme=tokyonight" />
 </p>
 
 
