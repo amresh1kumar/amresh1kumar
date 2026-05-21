@@ -64,17 +64,22 @@ I am a **Full Stack Web Developer** focused on building
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amresh1kumar&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## 📈 Contribution Activity  
 
