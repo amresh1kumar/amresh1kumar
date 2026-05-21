@@ -62,29 +62,11 @@ I am a **Full Stack Web Developer** focused on building
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amresh1kumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amresh1kumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amresh1kumar&theme=tokyonight&hide_border=true" />
 </p>
-
-
-## ✨ Animated Developer Section
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things+🚀" />
-</p>
-
----
 
 ## 🌌 Coding Animation
 
@@ -94,7 +76,7 @@ I am a **Full Stack Web Developer** focused on building
 
 ---
 
-## ⚡ Tech Animation
+## Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,python,django,tailwind,git,github,vscode&perline=6" />
@@ -102,7 +84,7 @@ I am a **Full Stack Web Developer** focused on building
 
 ---
 
-## 🎯 Fun Animation
+## Information
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amresh1kumar&theme=tokyonight" />
